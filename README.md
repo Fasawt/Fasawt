@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center"> HELLO THERE </h1>
 <p align="center"> (Open for Hiring)</p>
 
