@@ -1,11 +1,8 @@
 <<<<<<< HEAD
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
+<h1 align="center"> HELLO THERE </h1>
 <p align="center"> (Open for Hiring)</p>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> Fasawt:$ Whoami</h2>
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
@@ -15,13 +12,13 @@
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 My tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+<p align="center">TailwindCSS, Python, Docker, Zabbix, Grafana, ELK stack.</p>
 
 <hr>
 
