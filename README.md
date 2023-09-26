@@ -1,5 +1,3 @@
-
-<h1 align="center"> </h1>
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center">Whoami</h2>
