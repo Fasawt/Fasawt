@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
@@ -42,3 +43,9 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+=======
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeny</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Science student, IT professional from Russia 🇷🇺</h3>
+[Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+>>>>>>> 7155ec8458db2057994bcf2d7ca1deb1e1c2b014
