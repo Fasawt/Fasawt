@@ -26,7 +26,3 @@
 <p align="center">
   <a href="mailto:fasawt@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
